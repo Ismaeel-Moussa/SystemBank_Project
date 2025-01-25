@@ -1,0 +1,56 @@
+﻿  clsDeleteUser.cpp
+  clsLog.cpp
+  Test.cpp
+C:\Users\ismail\Documents\BankSystem_Project\Project\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\ismail\Documents\BankSystem_Project\Project\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\ismail\Documents\BankSystem_Project\Project\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\ismail\Documents\BankSystem_Project\Project\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\ismail\Documents\BankSystem_Project\Project\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\ismail\Documents\BankSystem_Project\Project\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\ismail\Documents\BankSystem_Project\Project\clsUtil.h(67,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Test.cpp')
+  
+C:\Users\ismail\Documents\BankSystem_Project\Project\clsUser.h(187,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Test.cpp')
+      C:\Users\ismail\Documents\BankSystem_Project\Project\clsUser.h(24,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\ismail\Documents\BankSystem_Project\Project\clsBankClient.h(221,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Test.cpp')
+      C:\Users\ismail\Documents\BankSystem_Project\Project\clsBankClient.h(24,12):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\ismail\Documents\BankSystem_Project\Project\clsBankClient.h(32,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\ismail\Documents\BankSystem_Project\Project\clsBankClient.h(432,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\ismail\Documents\BankSystem_Project\Project\clsBankClient.h(438,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\ismail\Documents\BankSystem_Project\Project\clsBankClient.h(451,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+C:\Users\ismail\Documents\BankSystem_Project\Project\clsAddNewClientScreen.h(85,12): warning C4129: 'C': unrecognized character escape sequence
+  (compiling source file 'Test.cpp')
+  
+C:\Users\ismail\Documents\BankSystem_Project\Project\clsTotalBalancesScreen.h(62,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Test.cpp')
+  
+  Generating Code...
+C:\Users\ismail\Documents\BankSystem_Project\Project\clsBankClient.h(378,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\ismail\Documents\BankSystem_Project\Project\clsUser.h(347,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Test.vcxproj -> C:\Users\ismail\Documents\BankSystem_Project\Project\x64\Debug\Test.exe
